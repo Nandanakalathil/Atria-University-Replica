@@ -1,0 +1,171 @@
+
+/* .form-box{
+    padding: 25px 30px 20px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+} */
+   
+.right {
+    
+    width: 50px;
+  
+    padding: 6px 31px 4px;
+    font-size: 16px;
+    color:white;
+    display: inline-block;
+    background: #1ce274;
+    text-transform: uppercase;
+    font-family: 'MuliBlack';
+    display: inline;
+
+    position: absolute;
+    right: 500px;
+  
+ 
+ 
+}
+    
+#img{
+    display: block;
+    margin-left: 200px;
+    margin-right: auto;
+    width: 45px;
+    height: 55px;
+    margin-bottom:950px;
+
+}
+#nav bar{
+    vertical-align: auto;
+    
+    font-size: medium;
+    font-weight: bolder;
+    margin-left: 60%;
+}
+.backgrounddd{
+    width: 100%;
+    height: 1000px;
+    box-sizing: border-box;
+    background:#f7f7f8;
+   
+  
+}
+.contbox{
+    width: 50%;
+    height: 250px;
+    padding: 58px 80px;
+    box-shadow: 0 32px 28px 0 rgb(75 61 125 / 22%);
+    border-bottom: 8px solid #1ce274;
+    background:#ffffff;
+    position: relative;
+    z-index: 1;
+    top: -50px;
+    margin: auto;
+}
+.content{
+    font-weight: bolder;
+    font-size:30px;
+   
+    
+
+}
+.input{
+    text-align: right;
+    display: block;
+    position: relative;
+    margin: 200 800px 1000px 200px;
+
+    
+
+}
+.text{
+    text-align: right;
+    display: block;
+    position: relative;
+    margin-bottom:200px;
+    margin-top: auto;
+    margin-left: 300px;
+    margin-right:auto
+   
+   
+
+    
+    
+}
+ .mainhead{
+   
+    font-size: 40px;
+    margin-left:auto;
+    position: relative;
+    font-weight: bolder;
+    margin-right:1200px;
+    margin-bottom: -100px;
+    margin-top: auto;
+    margin: 100px;
+    display: inline-block;
+    
+ }     
+.contentt{
+    text-align: right;
+    font-size: medium;
+    display: block;
+    position: relative;
+    margin-bottom:-500px;
+    margin-top: auto;
+    margin-right:600px;
+    margin-left:-100px;
+}
+.last{
+    text-align: right;
+    display: block;
+    position: relative;
+    margin-bottom:-500px;
+    margin-top: auto;
+    margin-right:600px;
+    margin-left:-100px;
+}
+
+.last{
+    font-size: 15px;
+    font-weight: lighter;
+}
+#san{
+    margin-left: 400px;
+    width: 60%;
+    width:62%;
+    margin-right: 575px;
+}
+.mainhead.head{
+    margin-top: 300px;
+}
+
+.navbar {
+    padding: 25px 30px 20px;
+    background-color:#4837d1;
+    width: 100%;
+    height: 30%;
+    display:flex;
+    justify-content: space-between;
+}
+
+  
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 16px;
+}
+  
+        
+    
+    
+
+  
+    
+
+
+
+    
+    
